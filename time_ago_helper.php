@@ -5,7 +5,7 @@
  *
  * @author      Prajwol KC Dev Team
  * @copyright   Copyright (c) 2014, Semicolon Developers Network
- * @package 	PyroCMS
+ 
  */
 if (!function_exists('time_ago'))
 {
